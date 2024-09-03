@@ -1,0 +1,26 @@
+datasets websites
+
+Kaggle (many competitions)
+Stanford SNAP (Graph data)
+WikiData (Open data)
+DBpedia (Wikipedia data)
+OpenDataPhilly (government)
+IEEG.org (time series data)
+ADNI (Alzheimer's genetic data)
+OpenWeatherMap (weather data)
+(from DataQuest)
+
+-----------------------
+
+India 5000 cities weather https://www.kaggle.com/datasets/mukeshdevrath007/indian-5000-cities-weather-data/data
+
+@misc{mukesh_kumar_2024,
+	title={Indian Cities Weather 2010-2024: Dive In!},
+	url={https://www.kaggle.com/ds/4805309},
+	DOI={10.34740/KAGGLE/DS/4805309},
+	publisher={Kaggle},
+	author={Mukesh Kumar},
+	year={2024}
+}
+
+
